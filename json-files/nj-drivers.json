@@ -1,0 +1,181 @@
+[
+    {
+        "type": "multiple-choice",
+        "question": "What is the speed limit in a residential area in New Jersey, unless otherwise posted?",
+        "options": [
+            "15 mph",
+            "25 mph",
+            "35 mph",
+            "45 mph"
+        ],
+        "answer": "25 mph"
+    },
+    {
+        "type": "true/false",
+        "question": "It is legal to pass on the right shoulder of the road.",
+        "answer": "False"
+    },
+    {
+        "type": "fill-in-the-blank",
+        "question": "When approaching a flashing yellow traffic signal, you should ___.",
+        "answer": "slow down and proceed with caution"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "What does a solid white line on the road indicate?",
+        "options": [
+            "Passing is allowed",
+            "Passing is prohibited",
+            "Lane changes are discouraged",
+            "A bicycle lane"
+        ],
+        "answer": "Lane changes are discouraged"
+    },
+    {
+        "type": "true/false",
+        "question": "Headlights must be used from one-half hour after sunset to one-half hour before sunrise.",
+        "answer": "True"
+    },
+    {
+        "type": "fill-in-the-blank",
+        "question": "If you accumulate six or more points within three years you are subject to a surcharge of $___.",
+        "answer": "150"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "What is the meaning of a triangular red and white sign?",
+        "options": [
+            "Stop",
+            "Yield",
+            "Warning",
+            "Speed limit"
+        ],
+        "answer": "Yield"
+    },
+    {
+        "type": "true/false",
+        "question": "You should use your turn signal when changing lanes.",
+        "answer": "True"
+    },
+    {
+        "type": "fill-in-the-blank",
+        "question": "In New Jersey, children under the age of eight and who are less than 57 inches tall must ride in a ___.",
+        "answer": "child safety seat"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "What is the best way to reduce your chances of having an alcohol-related accident?",
+        "options": [
+            "Drink coffee",
+            "Eat food",
+            "Designated driver",
+            "Take a cold shower"
+        ],
+        "answer": "Designated driver"
+    },
+    {
+        "type": "true/false",
+        "question": "You should always yield to pedestrians in a crosswalk.",
+        "answer": "True"
+    },
+    {
+        "type": "fill-in-the-blank",
+        "question": "When driving in snow, you should use ___ beams.",
+        "answer": "low"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "What does a flashing yellow light mean?",
+        "options": [
+            "Stop and proceed when safe",
+            "Slow down and proceed with caution",
+            "Yield to oncoming traffic",
+            "Speed up"
+        ],
+        "answer": "Slow down and proceed with caution"
+    },
+    {
+        "type": "true/false",
+        "question": "You can use your cell phone for GPS while driving with a GDL permit.",
+        "answer": "False"
+    },
+    {
+        "type": "fill-in-the-blank",
+        "question": "When parallel parking, your vehicle should be no more than ___ inches from the curb.",
+        "answer": "6"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "What is the hand signal for a right turn?",
+        "options": [
+            "Arm straight out",
+            "Arm upward",
+            "Arm downward",
+            "No hand signal"
+        ],
+        "answer": "Arm upward"
+    },
+    {
+        "type": "true/false",
+        "question": "Driving is a privilege, not a right.",
+        "answer": "True"
+    },
+    {
+        "type": "fill-in-the-blank",
+        "question": "If your brakes suddenly fail, you should shift to a lower gear and ___.",
+        "answer": "pump the brakes"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "What is the \"three-second rule\"? ",
+        "options": [
+            "Following distance",
+            "Speed limit",
+            "Reaction time",
+            "Stopping distance"
+        ],
+        "answer": "Following distance"
+    },
+    {
+        "type": "true/false",
+        "question": "It is safe to follow large trucks closely.",
+        "answer": "False"
+    },
+    {
+        "type": "fill-in-the-blank",
+        "question": "An acceleration lane is used to ___ the flow of traffic when entering a highway.",
+        "answer": "join"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "What is the penalty for altering a driver's license?",
+        "options": [
+            "Fine",
+            "Jail time",
+            "License suspension",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "type": "true/false",
+        "question": "You should always slow down when entering a curve.",
+        "answer": "True"
+    },
+    {
+        "type": "fill-in-the-blank",
+        "question": "When driving in a city, you should be able to see ___ seconds ahead.",
+        "answer": "12"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "What is the meaning of a flashing red light?",
+        "options": [
+            "Slow down",
+            "Yield",
+            "Stop",
+            "Proceed with caution"
+        ],
+        "answer": "Stop"
+    }
+]

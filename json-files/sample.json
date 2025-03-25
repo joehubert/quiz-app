@@ -1,0 +1,23 @@
+[
+    {
+        "type": "multiple-choice",
+        "question": "What is the capital of France?",
+        "options": [
+            "Paris",
+            "London",
+            "Rome",
+            "Berlin"
+        ],
+        "answer": "Paris"
+    },
+    {
+        "type": "true/false",
+        "question": "The Earth is flat.",
+        "answer": "False"
+    },
+    {
+        "type": "fill-in-the-blank",
+        "question": "The chemical symbol for water is ___",
+        "answer": "H2O"
+    }
+]
